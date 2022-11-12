@@ -22,4 +22,19 @@ To install-->pip install streamlit<br>
 SMOTE-Synthetic Minority OverSampling Technique<br>
 I used this technique to convert imbalanced dataset to balanced data set<br>
 
-All things provied except pickle file,you can run inbpy file and save the pickle file in your system.
+# About dataset
+CustomerId<br>
+Surname<br>
+CreditScore<br>
+Geography<br>
+Gender<br>
+Age<br>
+Tenure<br>
+Balance<br>
+NumOfProducts<br>
+HasCrCard<br>
+IsActiveMember<br>
+EstimatedSalary<br>
+Exited-->dependent<br>
+
+All things provied except pickle file,you can run ipynb file and save the pickle file in your system.
